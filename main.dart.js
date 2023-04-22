@@ -10781,7 +10781,7 @@ b3.toString}b4=b1?B.i:B.k
 b2=b2===B.J?B.i:B.k
 b5=o?B.i:B.k
 b6=b1?B.i:B.k
-n=A.Q_(a4,p,B.kM,d8,d8,d8,b6,o?B.k:B.i,d8,d8,b4,d8,b2,d8,b5,d8,d8,d8,d8,d8,e2,d8,a5,d8,j,d8,b3,d8,a0,d8,d8,d8,d8)}b7=o?B.x:B.v
+n=A.Q_(a4,p,B.kN,d8,d8,d8,b6,o?B.k:B.i,d8,d8,b4,d8,b2,d8,b5,d8,d8,d8,d8,d8,e2,d8,a5,d8,j,d8,b3,d8,a0,d8,d8,d8,d8)}b7=o?B.x:B.v
 if(o)b8=B.ei
 else{a4=e2.b.h(0,50)
 a4.toString
@@ -10789,7 +10789,7 @@ b8=a4}if(a==null)a=o?B.ef:B.i
 if(b==null)b=j.j(0,c)?B.i:j
 b9=o?B.x0:A.a7(153,0,0,0)
 if(o){a4=e2.b.h(0,600)
-a4.toString}else a4=B.kN
+a4.toString}else a4=B.kO
 c0=new A.Au(a4,d8,a9,b0,d8,d8,n,s)
 c1=o?B.wY:B.wX
 c2=o?B.kD:B.ed
@@ -10812,8 +10812,8 @@ d5=d0.bQ(0,d8)
 d6=a8?B.eC:B.lk
 if(o){a4=e2.b.h(0,600)
 a4.toString
-d7=a4}else d7=B.kN
-if(f==null)f=B.kM
+d7=a4}else d7=B.kO
+if(f==null)f=B.kN
 if(a1==null)if(o)a1=B.ei
 else{a4=e2.b.h(0,200)
 a4.toString
@@ -59667,9 +59667,9 @@ l=A.aee(new A.k9(A.e_(A.fX("Tracking Ambulance",p,p,A.fg(p,p,B.k,p,p,p,p,p,p,p,p
 s=a.J(o).f
 s=A.aee(new A.k9(A.e_(A.fX("Patients Reports",p,p,A.fg(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/60,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),s.a.a,p))
 r=a.J(o).f
-n=new A.wm(A.a([l,s,A.aee(new A.k9(A.e_(A.fX("Doctor",p,p,A.fg(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/60,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),r.a.a,p))],n),B.xE,p)
+n=new A.wm(A.a([l,s,A.aee(new A.k9(A.e_(A.fX("Doctors",p,p,A.fg(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/60,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),r.a.a,p))],n),B.xE,p)
 o=n.gjY().b
-return new A.rP(3,A.a_p(new A.r0(m,n,B.kO,8,new A.KP(p,o,1/0,56+o),p),B.G0),p)}}
+return new A.rP(3,A.a_p(new A.r0(m,n,B.kL,8,new A.KP(p,o,1/0,56+o),p),B.G0),p)}}
 A.E0.prototype={
 L(a){return A.Wp(!1,B.DZ,A.a3y(null,B.f1,!0),"Flutter Traffic")}}
 A.A3.prototype={
@@ -59707,7 +59707,7 @@ return A.U($async$oT,r)},
 ao(){this.aI()
 var s=t.P
 A.D5(B.q,t.z).bb(0,new A.a69(this),s).bb(0,new A.a6a(this),s)},
-Jt(a){if(a==="Available")return B.xh
+Jt(a){if(a==="Available")return B.xg
 else if(a==="Not Available")return B.eh
 else if(a==="Busy")return B.kR
 return B.eh},
@@ -59824,7 +59824,7 @@ r=a.J(h).f
 q=A.fg(j,j,j,j,j,j,j,j,j,j,j,a.J(h).f.a.a/60,j,j,B.br,j,j,!0,j,j,j,j,j,j,j,j)
 p=A.fg(j,j,B.eh,j,j,j,j,j,j,j,j,a.J(h).f.a.a/60,j,j,j,j,j,!0,j,j,j,j,j,j,j,j)
 o=A.Pb(a.J(h).f.a.a/85)
-n=new A.c5(B.kO,1,B.af,-1)
+n=new A.c5(B.kL,1,B.af,-1)
 m=a.J(h).f
 h=a.J(h).f
 l=b.b
@@ -62478,7 +62478,7 @@ B.a_=new A.l7(1,"hardEdge")
 B.kC=new A.l7(2,"antiAlias")
 B.bo=new A.l7(3,"antiAliasWithSaveLayer")
 B.ek=new A.E(4291869951)
-B.xg=new A.E(4281867890)
+B.xh=new A.E(4281867890)
 B.xm=new A.E(4283381643)
 B.kQ=new A.E(4293582335)
 B.xz=new A.E(4291609308)
@@ -62496,11 +62496,11 @@ B.kS=new A.E(4294565596)
 B.cI=new A.E(4280032031)
 B.el=new A.E(4293321189)
 B.eg=new A.E(4282991951)
-B.kL=new A.E(4291478736)
+B.kM=new A.E(4291478736)
 B.xv=new A.E(4287860633)
 B.kI=new A.E(4281413683)
 B.ej=new A.E(4284960932)
-B.wU=new A.ny(B.J,B.ek,B.xg,B.xm,B.kQ,B.xz,B.xf,B.xl,B.kP,B.xD,B.xk,B.xp,B.kT,B.xF,B.xn,B.xt,B.kS,B.cI,B.el,B.cI,B.el,B.eg,B.kL,B.xv,B.eg,B.k,B.k,B.el,B.kI,B.ej,B.ek,null,null)
+B.wU=new A.ny(B.J,B.ek,B.xh,B.xm,B.kQ,B.xz,B.xf,B.xl,B.kP,B.xD,B.xk,B.xp,B.kT,B.xF,B.xn,B.xt,B.kS,B.cI,B.el,B.cI,B.el,B.eg,B.kM,B.xv,B.eg,B.k,B.k,B.el,B.kI,B.ej,B.ek,null,null)
 B.xa=new A.E(4280352861)
 B.xo=new A.E(4284636017)
 B.x8=new A.E(4280097067)
@@ -62512,7 +62512,7 @@ B.kU=new A.E(4294966270)
 B.xB=new A.E(4293386476)
 B.xr=new A.E(4286149758)
 B.xG=new A.E(4294242292)
-B.wV=new A.ny(B.E,B.ej,B.i,B.kQ,B.xa,B.xo,B.i,B.kP,B.x8,B.xs,B.i,B.kT,B.xe,B.xx,B.i,B.kS,B.xi,B.kU,B.cI,B.kU,B.cI,B.xB,B.eg,B.xr,B.kL,B.k,B.k,B.kI,B.xG,B.ek,B.ej,null,null)
+B.wV=new A.ny(B.E,B.ej,B.i,B.kQ,B.xa,B.xo,B.i,B.kP,B.x8,B.xs,B.i,B.kT,B.xe,B.xx,B.i,B.kS,B.xi,B.kU,B.cI,B.kU,B.cI,B.xB,B.eg,B.xr,B.kM,B.k,B.k,B.kI,B.xG,B.ek,B.ej,null,null)
 B.H=new A.E(0)
 B.kD=new A.E(1087163596)
 B.wW=new A.E(134217728)
@@ -62530,15 +62530,15 @@ B.x2=new A.E(4039164096)
 B.x3=new A.E(4278239141)
 B.xb=new A.E(4280361249)
 B.kH=new A.E(4281348144)
-B.xh=new A.E(4282004718)
+B.xg=new A.E(4281659050)
 B.ef=new A.E(4282532418)
 B.eh=new A.E(4283256141)
 B.ei=new A.E(4284572001)
 B.kK=new A.E(4284809178)
 B.xw=new A.E(4288585374)
-B.kM=new A.E(4292030255)
-B.kN=new A.E(4292927712)
-B.kO=new A.E(4293202149)
+B.kL=new A.E(4290110135)
+B.kN=new A.E(4292030255)
+B.kO=new A.E(4292927712)
 B.kR=new A.E(4293726995)
 B.xC=new A.E(4293849335)
 B.xE=new A.E(4294026883)
