@@ -62628,12 +62628,12 @@ throw A.c(new A.HK(m,b,new A.ys(o,d,n)))}}
 A.vL.prototype={
 aj(){return new A.LU(B.j)}}
 A.LU.prototype={
-L(a){var s,r,q=this,p=null,o=t.w,n=t.E,m=A.pK(A.a([new A.kJ(A.pK(A.a([B.lB,A.ft(p,p,a.J(o).f.a.a/140),A.e5("Search",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/60,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.ft(p,p,a.J(o).f.a.a/40*2)],n),B.ar,B.aT,B.az,p),p,p),A.pK(A.a([new A.kJ(A.e5("E | \u0639",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/60,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),A.ft(p,p,a.J(o).f.a.a/140)],n),B.ar,B.aT,B.az,p)],n),B.ar,B.dc,B.az,p),l=a.J(o).f
-l=A.ai4(new A.kJ(A.dH(A.e5("Tracking Ambulance",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/60,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),l.a.a,p))
+L(a){var s,r,q=this,p=null,o=t.w,n=t.E,m=A.pK(A.a([new A.kJ(A.pK(A.a([B.lB,A.ft(p,p,a.J(o).f.a.a/140),A.e5("Search",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/88,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.ft(p,p,a.J(o).f.a.a/40*2)],n),B.ar,B.aT,B.az,p),p,p),A.pK(A.a([new A.kJ(A.e5("E | \u0639",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/88,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),A.ft(p,p,a.J(o).f.a.a/140)],n),B.ar,B.aT,B.az,p)],n),B.ar,B.dc,B.az,p),l=a.J(o).f
+l=A.ai4(new A.kJ(A.dH(A.e5("Tracking Ambulance",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/88,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),l.a.a,p))
 s=a.J(o).f
-s=A.ai4(new A.kJ(A.dH(A.e5("Patients Reports",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/60,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),s.a.a,p))
+s=A.ai4(new A.kJ(A.dH(A.e5("Patients Reports",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/88,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),s.a.a,p))
 r=a.J(o).f
-n=new A.xo(A.a([l,s,A.ai4(new A.kJ(A.dH(A.e5("Doctor",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/60,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),r.a.a,p))],n),B.y7,p)
+n=new A.xo(A.a([l,s,A.ai4(new A.kJ(A.dH(A.e5("Doctor",p,p,A.e6(p,p,B.k,p,p,p,p,p,p,p,p,q.c.J(o).f.a.a/88,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p),r.a.a,p))],n),B.y7,p)
 o=n.gkA().b
 return new A.tJ(3,A.a26(new A.rT(m,n,B.ev,8,new A.Mv(p,o,1/0,56+o),p),B.GL),p)}}
 A.Fl.prototype={
@@ -62779,11 +62779,11 @@ h=A.f5(c,c,B.q,d.AO(J.aE(J.nW(l.gaq(m))[0],b)),c,c,c,30,c,c,c,c,c)
 g=J.aE(J.nW(l.gaq(m))[0],"name")
 if(g==null)g=""
 f=a.J(s).f
-g=A.e5(g,c,c,new A.l(!0,c,c,c,c,c,f.a.a/60,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c),c,c)
+g=A.e5(g,c,c,new A.l(!0,c,c,c,c,c,f.a.a/88,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c),c,c)
 f=J.aE(J.nW(l.gaq(m))[0],"hospital")
 if(f==null)f=""
 e=a.J(s).f
-o.push(A.m6(c,A.CB(A.a([new A.BQ(B.zJ,k,50,c),B.jx,A.f5(c,A.CB(A.a([h,g,B.jx,A.e5(f,c,c,new A.l(!0,c,c,c,c,c,e.a.a/88,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c),c,c),new A.It(B.Lf,J.aE(J.nW(l.gaq(m))[0],"required"),c),B.jx],p),B.ar,B.dc,B.az),B.q,c,c,new A.eg(B.y8,c,c,new A.c0(B.F,B.F,new A.bk(i,i),new A.bk(j,j)),c,c,B.aF),c,260,c,c,c,c,200)],p),B.ar,B.aT,B.az),B.au,!1,c,c,c,c,c,c,c,c,c,c,c,new A.a9u(d,m,a),c,c,c,c,c,c))}s=A.amV(o,q.a.a/40,r.a.b/12)}return A.YU(!1,A.a26(c,A.dH(s,c,c)),c,"")}}
+o.push(A.m6(c,A.CB(A.a([new A.BQ(B.zJ,k,50,c),B.jx,A.f5(c,A.CB(A.a([h,g,B.jx,A.e5(f,c,c,new A.l(!0,c,c,c,c,c,e.a.a/120,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c),c,c),new A.It(B.Lf,J.aE(J.nW(l.gaq(m))[0],"required"),c),B.jx],p),B.ar,B.dc,B.az),B.q,c,c,new A.eg(B.y8,c,c,new A.c0(B.F,B.F,new A.bk(i,i),new A.bk(j,j)),c,c,B.aF),c,260,c,c,c,c,200)],p),B.ar,B.aT,B.az),B.au,!1,c,c,c,c,c,c,c,c,c,c,c,new A.a9u(d,m,a),c,c,c,c,c,c))}s=A.amV(o,q.a.a/40,r.a.b/12)}return A.YU(!1,A.a26(c,A.dH(s,c,c)),c,"")}}
 A.a9w.prototype={
 $1(a){var s=0,r=A.Q(t.P),q=this,p,o
 var $async$$1=A.L(function(b,c){if(b===1)return A.N(c,r)
@@ -62816,9 +62816,9 @@ s=5
 return A.X(A.ei(p.e.c.fc(0,k)).c.hH(0,J.nU(l.gaq(m))),$async$$0)
 case 5:o=q.c.J(t.Pu)
 o.toString
-o.f.v3(A.a5a(null,null,null,null,B.a3,null,A.e5("Doctor "+A.j(J.aE(l.i(m,k),"name"))+" is now required at ER, "+A.j(J.aE(l.i(m,k),"hospital")),null,null,null,null,null),B.cT,B.eK,null,null,null,null,null,null,null,null))
+o.f.v3(A.a5a(null,null,null,null,B.a3,null,A.e5("Doctor "+A.j(J.aE(l.i(m,k),"name"))+" is now required at hospital, "+A.j(J.aE(l.i(m,k),"hospital")),null,null,null,null,null),B.cT,B.eK,null,null,null,null,null,null,null,null))
 o=J.aE(l.i(m,k),"phone")
-p.f.pZ("Doctor. "+A.j(J.aE(l.i(m,k),"name"))+", you are urgently required at ER, "+A.j(J.aE(l.i(m,k),"hospital")),o)
+p.f.pZ("Dr. "+A.j(J.aE(l.i(m,k),"name"))+", you are urgently required at hospital, "+A.j(J.aE(l.i(m,k),"hospital")),o)
 s=3
 break
 case 4:p=q.c
@@ -62836,7 +62836,7 @@ s=7
 break
 case 8:p=p.J(o)
 p.toString
-p.f.v3(A.a5a(null,null,null,null,B.a3,null,A.e5("Doctor "+A.j(J.aE(l.i(m,k),"name"))+" is "+A.j(J.aE(l.i(m,k),"docState"))+", so doctor can NOT assigned to be required",null,null,null,null,null),B.cT,B.eK,null,null,null,null,null,null,null,null))
+p.f.v3(A.a5a(null,null,null,null,B.a3,null,A.e5("Doctor "+A.j(J.aE(l.i(m,k),"name"))+" is "+A.j(J.aE(l.i(m,k),"docState"))+", so doctor can not assigned to be required",null,null,null,null,null),B.cT,B.eK,null,null,null,null,null,null,null,null))
 case 7:case 3:return A.O(null,r)}})
 return A.P($async$$0,r)},
 $S:21}
